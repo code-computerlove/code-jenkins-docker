@@ -1,3 +1,2 @@
 # code-jenkins-docker
-Dockerfile for Jenkins CI
-
+Dockerfile for Jenkins CI Server

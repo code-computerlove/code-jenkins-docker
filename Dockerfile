@@ -1,2 +1,3 @@
 FROM jenkins
-MAINTAINER Code Computerlove
+LABEL maintainer="Code Computerlove"
+LABEL version="1.0"
